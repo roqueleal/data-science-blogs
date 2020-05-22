@@ -216,6 +216,7 @@ A curated list of data science blogs
 * RNDuja Blog http://rnduja.github.io/ [(RSS)](http://rnduja.github.io/feed.xml)
 * Robert Chang https://medium.com/@rchang [(RSS)](https://medium.com/feed/@rchang)
 * Rocket-Powered Data Science http://rocketdatascience.org [(RSS)](http://rocketdatascience.org/?feed=rss2)
+* Roque Leal https://roqueleal.me/ [(RSS)](https://roqueleal.me/feed/feed.xml) 
 * Sachin Joglekar's blog https://codesachin.wordpress.com/ [(RSS)](https://codesachin.wordpress.com/feed/)
 * samim https://medium.com/@samim [(RSS)](https://medium.com/feed/@samim)
 * Sean J. Taylor http://seanjtaylor.com/ [(RSS)](http://seanjtaylor.com/rss)
